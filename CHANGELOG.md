@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/dnpm-dip/backend-core/compare/v1.3.0...v1.3.1) (2026-05-18)
+
+
+### Bug Fixes
+
+* Bump play-json to 3.0.6 to attempt fixing dependency alert for jackson-core ([4689d54](https://github.com/dnpm-dip/backend-core/commit/4689d543a5210c6d4364ac42a8766ee64ea6a262))
+
 ## [1.3.0](https://github.com/dnpm-dip/backend-core/compare/v1.2.2...v1.3.0) (2026-04-21)
 
 
